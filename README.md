@@ -105,9 +105,10 @@ deliverables/      Final assignment report
 models/            Generated model and metadata files
 ```
 
-## Report
+## Submission
 
-[Final assignment report (PDF)](deliverables/CO4031_Assignment_L01_Group11.pdf)
+- [Final assignment report (PDF)](deliverables/CO4031_Assignment_L01_Group11_Report.pdf)
+- [Presentation slides (PDF)](deliverables/CO4031_Assignment_L01_Group11_Slide.pdf)
 
 ## Documentation
 
